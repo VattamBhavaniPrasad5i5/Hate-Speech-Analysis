@@ -38,6 +38,6 @@ The model used in this analysis is a **Logistic Regression**. The model is train
 
 The performance of the model is evaluated using precision, recall, and F1-score. The results are displayed in a confusion matrix and a classification report.
 ## Results
-The **Logistic Regression** model achieves an F1-score of 0.77 for identifying hate speech.
+The **Logistic Regression** model achieves an F1-score of 0.77 for identifying hate speech.**final_results.csv** having the final results of given test dataset.
 ## Conclusion
 This machine learning model can be used to automatically detect hate speech and offensive language on Twitter. It can be a valuable tool for moderators or analysts to track and flag harmful content like sexism and racisim contents. However, the model is not perfect and may have limitations when dealing with different languages or dialects.
